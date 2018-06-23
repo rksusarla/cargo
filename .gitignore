@@ -1,5 +1,7 @@
 !.mvn/wrapper/maven-wrapper.jar
 
+doc/
+
 ### STS ###
 .apt_generated
 .classpath
@@ -13,6 +15,7 @@
 *.iws
 *.iml
 *.ipr
+.idea/
 
 ### NetBeans ###
 nbproject/private/
